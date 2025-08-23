@@ -6,7 +6,7 @@ This is a tribute page for Yu Gwan-sun, built for the second certification proje
 
 This was my first certification project for the Responsive Web Design certificate on freeCodeCamp. The task was to build a tribute page using HTML and CSS.
 
-I decided to make a tribute page for Yu Gwan-sun because I'm Korean and she's one of the bravest independence activists in Korea. So, I wanted to honor her by making this page.
+I decided to make a tribute page for Yu Gwan-sun because I'm Korean and she was one of the bravest independence activists in Korea during the Japanese colonial period. So, I wanted to honor her by making this page.
 
 <img width="480" height="820" alt="Tribute Page 1" src="https://github.com/user-attachments/assets/086c055f-b5a6-4c73-a8df-bf73004e4276" />
 <img width="480" height="820" alt="Tribute Page 2" src="https://github.com/user-attachments/assets/e30bac26-4bcc-47b3-a235-025f415f78c2" />
