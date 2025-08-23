@@ -1,4 +1,4 @@
-# Survey Form
+# Tribute Page
 
 This is a tribute page for Yu Gwan-sun, built for the second certification project on freeCodeCamp.
 
