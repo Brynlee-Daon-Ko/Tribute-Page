@@ -8,8 +8,10 @@ This was my first certification project for the Responsive Web Design certificat
 
 I decided to make a tribute page for Yu Gwan-sun because I'm Korean and she was one of the bravest independence activists in Korea during the Japanese colonial period. So, I wanted to honor her by making this page.
 
-<img width="400" height="820" alt="Tribute Page 1" src="https://github.com/user-attachments/assets/086c055f-b5a6-4c73-a8df-bf73004e4276" />
-<img width="400" height="820" alt="Tribute Page 2" src="https://github.com/user-attachments/assets/e30bac26-4bcc-47b3-a235-025f415f78c2" />
+<img width="400" height="800" alt="Tribute Page1" src="https://github.com/user-attachments/assets/fc964649-7a05-49aa-b2b8-8e2c0119f375" />
+<img width="400" height="800" alt="Tribute Page 2" src="https://github.com/user-attachments/assets/a64799c4-195e-47d3-a074-527bd5133ea5" />
+
+
 
 ## Getting Started
 
